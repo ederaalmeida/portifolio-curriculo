@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portifólio.
 
-![imagemPortifolio](https://github.com/user-attachments/assets/139e4087-20a8-4d49-9104-8097ec54d814)
+![imagemPortifolio](https://github.com/user-attachments/assets/d9c5982a-8877-4e05-b398-4b2966eb7883)
 
 
 ## Ferramentas utilizadas:
