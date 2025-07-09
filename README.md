@@ -15,4 +15,4 @@ Olá, Bem vindo ao meu projeto de portifólio.
 ## Feito por:
 ### Eder Almeida
 
-### Linkendin: https://www.linkedin.com/in/eder-almeida-557738126/
+### Linkedin: https://www.linkedin.com/in/eder-almeida-557738126/
